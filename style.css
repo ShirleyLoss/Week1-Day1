@@ -85,6 +85,11 @@ input[type="submit"] {
 }
 /* Page 3 End */
 
+/* Page 4  Area */
+main #album #photo img {
+    width: 400px;
+}
+
 footer {
     height: 40px;
     background-color: rgb(129, 141, 179);
